@@ -1,0 +1,4 @@
+= Webプロジェクトマネジメント標準
+
+== LICENSE
+http://creativecommons.org/licenses/by-sa/4.0/deed.ja[クリエイティブ・コモンズ・ライセンス「Attribution-ShareAlike（表示・共有）」]
